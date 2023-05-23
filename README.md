@@ -1,7 +1,7 @@
 # ChemTek: 3d Chemistry Simulation Game
 ChemTek is a 3D chemistry simulation game was built with the goal of having an educational game that focuses on activity in chemistry lab for high school level students, following the K-12 Curriculum. 
 
-![Image here](https://drive.google.com/file/d/1ugH9deO1y5C3RVLUcazUF7ZWMZYQIMZ7/view?usp=sharing)
+![Image here](https://github.com/jaimehanz/ChemTek/blob/main/mockup.png)
 
 # About ChemTek
 
@@ -26,3 +26,7 @@ You can see the installer `exe file` in the zip to install.
 > Free Mode allows you to explore the whole chemistry simulation without any assigned task
 
 > Time Trial gives you the thrill of challenging your knowledge in chemistry thru assigning you 3 A* Algorigthm pick task
+
+* We have 5 Laboratory experiment and more than 50 in-game interactions
+
+* More than 30 different questions in quiz game
