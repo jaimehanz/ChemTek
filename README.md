@@ -30,3 +30,9 @@ You can see the installer `exe file` in the zip to install.
 * We have 5 Laboratory experiment and more than 50 in-game interactions
 
 * More than 30 different questions in quiz game
+
+# Developers
+* [Guarte, Ism](https://github.com/LearningNooooob)
+* [Guevarra, Ezekiel](https://github.com/zekguevarra)
+* [Pinpin, Marshall](https://github.com/OfficialLolicon)
+* [Sibucao, Jaime Hanz](https://github.com/jaimehanz)
