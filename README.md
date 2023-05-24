@@ -11,24 +11,32 @@ ChemTek is a 3D chemistry simulation game was built with the goal of having an e
 * Game content was verified by Senior high teacher to make sure the game is aligned with K-12 curriculum
 
 # Install
-In order to play the game, you need to download the game thru our Github repository or Google drive
+To experience the game, please follow these steps to download and install it:
 
-* [Github](https://github.com/jaimehanz/ChemTek/)
+1. Visit our GitHub repository or Google Drive to access the game files.
 
-* [Google Drive](https://drive.google.com/drive/folders/1yXVvsGFE8Sb9yAhPDEHf7bJ3JltspHWH?usp=sharing)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaimehanz/ChemTek/)
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1yXVvsGFE8Sb9yAhPDEHf7bJ3JltspHWH?usp=sharing)
 
-You can see the installer `exe file` in the zip to install.
+2. Download the game files to your local machine.
+
+3. Follow the installation instructions provided in the accompanying documentation.
+ 
+4. Launch the game and enjoy the immersive chemistry simulation!
+
+>Note: Ensure that your system meets the minimum requirements outlined in the documentation for optimal performance.
+* 4gb ram - intel celeron - at least 300mb storage space
 
 # Features
-* The Game has 2 game mode to explore: Time trial and Free Mode
+* The game offers two exciting game modes: Time Trial and Free Mode
 
-> Free Mode allows you to explore the whole chemistry simulation without any assigned task
+> In Free Mode, players can freely explore the entire chemistry simulation without any assigned tasks or restrictions
 
-> Time Trial gives you the thrill of challenging your knowledge in chemistry thru assigning you 3 A* Algorigthm pick task
+> Time Trial mode provides an exhilarating experience by challenging players' chemistry knowledge through three A* Algorithm pick tasks
 
-* We have 5 Laboratory experiment and more than 50 in-game interactions
+* Enjoy five unique laboratory experiments and over 50 engaging in-game interactions
 
-* More than 30 different questions in quiz game
+* Test your chemistry prowess with a collection of more than 30 diverse quiz questions
 
 # Developers
 * [Guarte, Ism](https://github.com/LearningNooooob)
