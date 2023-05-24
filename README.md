@@ -8,8 +8,7 @@ ChemTek is a 3D chemistry simulation game was built with the goal of having an e
 [![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity)](https://unity3d.com)
 * The Game was develop by Team of 4 computer science student in Technological University of the Philippines
 * We make sure that our 3d game can run in minimium requirement as possible
-* Game content was verified by Senior high teacher to make sure the game is aligned with k-12 curriculum
-* All Models, Elements, and Prefab was created using Blender or downloaded in the Unity Asset Store
+* Game content was verified by Senior high teacher to make sure the game is aligned with K-12 curriculum
 
 # Install
 In order to play the game, you need to download the game thru our Github repository or Google drive
@@ -34,5 +33,9 @@ You can see the installer `exe file` in the zip to install.
 # Developers
 * [Guarte, Ism](https://github.com/LearningNooooob)
 * [Guevarra, Ezekiel](https://github.com/zekguevarra)
-* [Pinpin, Marshall](https://github.com/OfficialLolicon)
+* [Pinpin, Marshal](https://github.com/OfficialLolicon)
 * [Sibucao, Jaime Hanz](https://github.com/jaimehanz)
+
+# Credits
+* Mostly of the Game Model, Prefabs, and texture is created using blender, photoshop and some are free to use material in [Unity Asset Store](https://assetstore.unity.com/)
+* We extend our sincere gratitude to the [SoundBible](https://soundbible.com/) for generously offering a diverse collection of free sound sources, which greatly enriched the auditory elements in our game. Additionally, we would like to credit [HealthyBros](https://www.youtube.com/@HeatleyBros) for providing captivating background music that perfectly complemented our gameplay.
