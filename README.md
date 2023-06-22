@@ -41,7 +41,7 @@ To experience the game, please follow these steps to download and install it:
 # Developers
 * [Guarte, Ism](https://github.com/LearningNooooob)
 * [Guevarra, Ezekiel](https://github.com/zekguevarra)
-* [Pinpin, Marshal](https://github.com/OfficialLolicon)
+* [Pinpin, Marshal](https://github.com/OfficialMisuki)
 * [Sibucao, Jaime Hanz](https://github.com/jaimehanz)
 
 # Credits
