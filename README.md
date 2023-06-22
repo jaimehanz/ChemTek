@@ -16,7 +16,7 @@ To experience the game, please follow these steps to download and install it:
 1. Visit our GitHub repository or Google Drive to access the game files.
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaimehanz/ChemTek/)
-[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1yXVvsGFE8Sb9yAhPDEHf7bJ3JltspHWH?usp=sharing)
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/13X-d1uvxXo0RW__6xb2w6XogWFD4NicO/view)
 
 2. Download the game files to your local machine.
 
