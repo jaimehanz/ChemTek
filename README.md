@@ -26,7 +26,9 @@ To experience the game, please follow these steps to download and install it:
 
 >Note: Ensure that your system meets the minimum requirements outlined in the documentation for optimal performance.
 * System Requirements
+
 Minimum
+
 OS: Windows 8/10 (64 bit version)
 
 Processor: Intel Celeron
