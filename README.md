@@ -6,9 +6,9 @@ ChemTek is a 3D chemistry simulation game was built with the goal of having an e
 # About ChemTek
 
 [![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity)](https://unity3d.com)
-* The Game was develop by Team of 4 computer science student in Technological University of the Philippines
-* We make sure that our 3d game can run in minimium requirement as possible
-* Game content was verified by Senior high teacher to make sure the game is aligned with K-12 curriculum
+* The Game was develop by Team of 4 computer science student in Technological University of the Philippines.
+* We make sure that our 3d game can run on minimium hardware requirements as possible.
+* Game content was verified by Senior High Professor to make sure the game is aligned with K-12 curriculum.
 
 # Install
 To experience the game, please follow these steps to download and install it:
