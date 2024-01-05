@@ -27,17 +27,17 @@ To experience the game, please follow these steps to download and install it:
 >Note: Ensure that your system meets the minimum requirements outlined in the documentation for optimal performance.
 * System Requirements
 
-Minimum
+Minimum                                         Recommended
 
-OS: Windows 8/10 (64 bit version)
+OS: Windows 8/10 (64 bit version)               OS: Windows 8/10 (64 bit version)
 
-Processor: Intel Celeron
+Processor: Intel Celeron                        Processor: i3/i5 processing unit or Higher
 
-Memory: 4GB RAM
+Memory: 4GB RAM                                 Memory: 2GB RAM
 
-Graphics: UHD Graphics
+Graphics: UHD Graphics                          Graphics: VRAM Worth 2gb or Higher 
 
-Storage: 300mb available space
+Storage: 300mb available space                  Storage: 300mb available space
 
 # Features
 * The game offers two exciting game modes: Time Trial and Free Mode
