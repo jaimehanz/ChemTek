@@ -25,7 +25,13 @@ To experience the game, please follow these steps to download and install it:
 4. Launch the game and enjoy the immersive chemistry simulation!
 
 >Note: Ensure that your system meets the minimum requirements outlined in the documentation for optimal performance.
-* 4gb ram - intel celeron - at least 300mb storage space
+* System Requirements
+Minimum
+OS: Windows 8/10 (64 bit version)
+Processor: Intel Celeron
+Memory: 4GB RAM
+Graphics: UHD Graphics
+Storage: 300mb available space
 
 # Features
 * The game offers two exciting game modes: Time Trial and Free Mode
