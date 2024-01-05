@@ -28,9 +28,13 @@ To experience the game, please follow these steps to download and install it:
 * System Requirements
 Minimum
 OS: Windows 8/10 (64 bit version)
+
 Processor: Intel Celeron
+
 Memory: 4GB RAM
+
 Graphics: UHD Graphics
+
 Storage: 300mb available space
 
 # Features
